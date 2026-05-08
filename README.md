@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋, I'm Huaisheng Ye (叶怀生)
 
-<!--
-**HysonYe/HysonYe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD Candidate @ School of Informatics, Xiamen University. 
+Researching MARL, World Models, and Reinforcement Learning for Underwater Acoustic Communications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 Research Interests
+- **Multi-Agent Reinforcement Learning (MARL):** Focused on coordination and decision-making in complex environments.
+- **World Models:** Exploring environment imagination and predictive modeling for sample efficiency.
+- **Underwater Acoustic Communications (UAC):** Applying advanced AI to solve real-world challenges in underwater networks.
+
+### 🎓 Academic Links
+[![Google Scholar](https://img.shields.io/badge/Google-Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=kSr5_cMAAAAJ)
+[![XMU](https://img.shields.io/badge/School-Informatics-blue)](https://www.xmu.edu.cn/)
+
+### 🛠️ Tech Stack
+`Python` `PyTorch` `Ray/RLlib` `Linux` `LaTeX`
+
+---
+
+*“Scaling MARL to World Models for robust underwater intelligence.”*
